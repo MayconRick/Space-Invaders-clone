@@ -10,3 +10,7 @@
 
 ### Levels 
 - Have 3 Levels
+
+## Implementation
+
+Prototype with objective to learn Observer Pattern for Game Development
